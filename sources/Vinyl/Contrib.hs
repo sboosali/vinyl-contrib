@@ -1,0 +1,1 @@
+module Vinyl.Contrib where
